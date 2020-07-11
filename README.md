@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Currently I am a master's by reserarch student at CSA, IISc Bangalore working on Programming Languages and Software Engineering.
 <!--
 **geetam/geetam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
