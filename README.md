@@ -1,5 +1,5 @@
 ### Hi there 👋
-- I am a master's by research student at CSA, IISc Bangalore
+- I am a master's by research student at CSA, IISc Bangalore.
 - Currently working on programming languages and software engineering.
 <!--
 **geetam/geetam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
