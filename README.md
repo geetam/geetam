@@ -1,6 +1,6 @@
 ### Hi there 👋
-- I am a software engineer at Nvidia, Pune working on the PTX compiler.
-- Previously, I was master's by research student at CSA, IISc Bangalore.
+- I am currently a Research Fellow at Microsoft Research India.
+- Previously, I worked on the PTX compiler team at Nvidia as a software engineer and completed my master's by research at CSA, IISc Bangalore.
 - Interested in Programming Languages, Compilers, and Software Engineering.
 <!--
 **geetam/geetam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
